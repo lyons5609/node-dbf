@@ -9,7 +9,7 @@ pids
 *.seed
 
 # folder containing the compiled JS code
-lib
+# lib
 
 # vim files
 **.swp
